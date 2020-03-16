@@ -1,0 +1,19 @@
+*{
+	background-color: yellow;
+}
+
+h1{
+	text-align: center;
+	color: red;
+	padding: 20px 20px 20px 20px;
+	margin: 5 5 5 5;
+	font-family: arial black;
+	font-size: 40px;
+}
+
+p{
+	font-family: Calibri;
+	font-size: 20px;
+	color: blue;
+	text-align: center;
+}
