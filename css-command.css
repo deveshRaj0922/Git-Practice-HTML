@@ -1,0 +1,22 @@
+*{
+	background-color: yellow;
+}
+
+h2{
+	text-align: center;
+	color: red;
+	padding: 20px 20px 20px 20px;
+	margin: 5px 5px 5px 5px;
+	font-family: arial;
+}
+
+p{
+	text-align: justify;
+	font-family: florence;
+	margin: 10px;
+}
+
+ul{
+	text-align: justify;
+	margin:10px;
+}
